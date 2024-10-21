@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+@theme {
+	--color-reepolee: #b40000;
+}
+
+p {
+	@apply text-reepolee font-bold;
+}
